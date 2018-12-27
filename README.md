@@ -1,18 +1,8 @@
-# front cover jekyll theme
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
+<img src="images/preview.png" />
 
+<img align='right' width='150' height='150' src="images/icon.png" />
 
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+# Lander
 
-## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
-
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
-
+Lander is just a Jekyll based landing page designed to get people to redirect to my online profiles on Linkedin, Github etc. I forked it from dashingcode/front-cover which hasn't been touched in a while a gave it some style updates to serve as my own landing page.
