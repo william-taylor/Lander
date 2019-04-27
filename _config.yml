@@ -1,6 +1,6 @@
 # Site settings
 author: William Taylor
-description: "Technology Associate at Morgan Stanley working on a greenfield project and major renovation of an existing system."
+description: "Technology Associate at Morgan Stanley working on multiple greenfield projects and key renovation work on serveral critical regulation applications."
 url: ''
 github_username:  william-taylor
 #facebook_username: william.taylor.1707
@@ -13,7 +13,7 @@ analytics: UA-96533413-5
 avatar: yes
 avatar_img_path: "images/profile.jpeg"
 front_img: yes
-front_img_path: "images/london.jpg"
+front_img_path: "images/wharf.jpeg"
 favicon_img: yes
 favicon_img_path: "images/icon.png"
 
